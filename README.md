@@ -1,2 +1,2 @@
 ## Github Page
-https://ederkaww.github.io/KrainaKodu/
+https://ederkaww.github.io/KrainaKodu-Website/
